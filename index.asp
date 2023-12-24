@@ -49,7 +49,7 @@
 	<label>Share your comment:</label>
 	<br/>
 	<br/>
-	<form action="process.php" method="get" >
+	<form action="process.php" method="post" >
 	<!--<input type="text" id="content" style="height:150px; width:300px;">-->
 	<textarea rows="10" cols="60" name="content" placeholder="enter your comment here" id="content"></textarea>
 	<br/>
